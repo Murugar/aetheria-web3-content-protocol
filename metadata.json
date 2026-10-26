@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Web3 Content Protocol",
+  "description": "Decentralized token-gated NFT content marketplace with smart contract auditing, feature synthesis, and mainnet deployment readiness pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
